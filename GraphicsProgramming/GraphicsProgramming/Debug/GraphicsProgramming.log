@@ -1,0 +1,100 @@
+﻿  BaseMesh.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  Camera.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Camera.cpp(377,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Camera.cpp(378,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Camera.cpp(379,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Camera.cpp(381,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Camera.cpp(382,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Camera.cpp(383,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CameraManager.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  Input.cpp
+  Light.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  LightManager.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  Main.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Main.cpp(220,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Main.cpp(220,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Material.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  MeshCone.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\MeshCone.cpp(283,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MeshCube.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  MeshDisc.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\MeshDisc.cpp(46,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\MeshDisc.cpp(18,15): warning C4101: 'v0': unreferenced local variable
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\MeshDisc.cpp(95,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MeshMirrorWorld.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  MeshPlane.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  MeshRectangle.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\MeshRectangle.cpp(357,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\MeshRectangle.cpp(358,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  MeshSphere.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\MeshSphere.cpp(42,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\MeshSphere.cpp(54,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MeshTorus.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\MeshTorus.cpp(115,10): warning C4101: 'v': unreferenced local variable
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\MeshTorus.cpp(116,8): warning C4101: 's': unreferenced local variable
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\MeshTorus.cpp(116,10): warning C4101: 't': unreferenced local variable
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\MeshTorus.cpp(115,8): warning C4101: 'u': unreferenced local variable
+  Model.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  Scene.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(45,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(46,32): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Colour4.h(47,31): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Scene.cpp(325,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  Shadow.cpp
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Shadow.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\Shadow.cpp(87,10): warning C4018: '>=': signed/unsigned mismatch
+  Texture.cpp
+  Generating Code...
+\\mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\GraphicsProgramming\LightManager.cpp(182,1): warning C4715: 'LightManager::getLightPosition': not all control paths return a value
+  Compiling...
+  Vector3.cpp
+  Generating Code...
+  GraphicsProgramming.vcxproj -> \\Mac\Home\Documents\Studies\University\CGT\CMP203 - Graphics Programming\CMP203_FinalProject_3DScene\GraphicsProgramming\Debug\GraphicsProgramming.exe

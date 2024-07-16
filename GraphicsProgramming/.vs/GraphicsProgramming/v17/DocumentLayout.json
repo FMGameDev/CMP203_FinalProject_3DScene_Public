@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\Studies\\University\\CGT\\CMP203 - Graphics Programming\\CMP203_FinalProject_3DScene\\GraphicsProgramming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B39DA7B-128B-4435-B59F-57A546CC90B9}|GraphicsProgramming\\GraphicsProgramming.vcxproj|\\\\Mac\\Home\\Documents\\Studies\\University\\CGT\\CMP203 - Graphics Programming\\CMP203_FinalProject_3DScene\\GraphicsProgramming\\GraphicsProgramming\\BaseMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseMesh.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Studies\\University\\CGT\\CMP203 - Graphics Programming\\CMP203_FinalProject_3DScene\\GraphicsProgramming\\GraphicsProgramming\\BaseMesh.cpp",
+              "RelativeDocumentMoniker": "GraphicsProgramming\\BaseMesh.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Studies\\University\\CGT\\CMP203 - Graphics Programming\\CMP203_FinalProject_3DScene\\GraphicsProgramming\\GraphicsProgramming\\BaseMesh.cpp",
+              "RelativeToolTip": "GraphicsProgramming\\BaseMesh.cpp",
+              "ViewState": "AQIAAAoAAAAAZWZmZmb0vwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-14T19:23:43.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
