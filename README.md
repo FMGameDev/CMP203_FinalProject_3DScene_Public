@@ -50,7 +50,7 @@ Made for Windows DirectX
 ### Camera
 
 To switch between different cameras press from 1 to 8.
-1. Middle Front Movible Camera (default)
+1. Middle Front Movable Camera (default)
 2. Right Front Security Camera
 3. Right Back Security Camera
 4. Middle Back Security Camera
